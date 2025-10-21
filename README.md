@@ -9,7 +9,7 @@ This project contains Bash scripts to automate Azure Storage management tasks. I
 - Download files from Azure Storage
 - List all files in containers
 - Delete files from containers
-- Logging of all actions for auditing and tracking
+- Logging of all actions for auditing & tracking
 
 ## Requirements
 - Azure CLI installed and configured
