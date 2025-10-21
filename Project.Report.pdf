@@ -1,8 +1,0 @@
-Project Report: Azure Storage Automation
-
-Author: Makanjuola Kehinde
-Date: 19-Oct-2025
-
-This project demonstrates automating Azure Storage operations using Bash scripts and GitHub Actions.
-It allows uploading, downloading, listing, and deleting files automatically.
-The workflow ensures files in Azure always reflect the latest version in the GitHub repository.

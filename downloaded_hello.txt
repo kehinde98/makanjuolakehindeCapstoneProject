@@ -1,0 +1,5 @@
+Hello! This is a sample file for testing Azure Blob Storage operations.
+You can use this file to practice uploading, downloading, listing, and deleting files.
+Date of creation: Sun, Oct 19, 2025  4:33:02 PM
+Project: Kehinde Cloud Storage Project
+Author: Makanjuola Kehinde

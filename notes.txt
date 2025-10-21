@@ -1,0 +1,6 @@
+Project Notes:
+1. Ensure all files are uploaded to the correct container.
+2. Verify public blob access settings.
+3. Keep logs in ./logs/blob_storage.log for reference.
+4. Test download and delete operations to confirm everything works.
+Date: Sun, Oct 19, 2025  4:39:16 PM
